@@ -1,0 +1,5 @@
+click == 3.1.0
+tensorflow == 2.9.1
+pandas == 1.4.2
+pyinquirer == 1.0.3
+matplotlib == 3.5.2
